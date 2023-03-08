@@ -1,0 +1,17 @@
+{
+  "name": "exemple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exemple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "bufferstream": "^0.6.2",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
